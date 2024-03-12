@@ -13,6 +13,7 @@ public class Main extends Student{
         // Now to set private value of a class we will use setter method of that class like below
         s.setAddress("Adarsh Nagar");
         System.out.println(s.getAddress()); // getAddress is used for getting the address after setting with setter
+        System.out.println("git repo created");
     }
 
     public void demo(){
