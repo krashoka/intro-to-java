@@ -19,6 +19,10 @@ public class User {
         this.name = name;
     }
 
+    public void greetAll(){
+        System.out.println("Hey Guys!");
+    }
+
     public int getId() {
         return id;
     }
