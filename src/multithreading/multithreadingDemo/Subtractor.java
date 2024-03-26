@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.multithreadingDemo;
 
 public class Subtractor implements Runnable{
 
